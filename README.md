@@ -73,3 +73,10 @@ void loop() {
 }
 ```
 (Dauer von **einem** Loop-Durchlauf: 6000ms)
+
+## Flackern beheben
+
+Wenn die PWM Pins auf zu **niedrigen** oder **unterschiedlichen** Frequenzen betrieben werden, können die LED Leisten optisch flackern.
+
+- Tipps für [Arduino Mega 2560 R3](http://sobisource.com/arduino-mega-pwm-pin-and-frequency-timer-control/)
+- Informationen aus [offizieller Quelle](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM)
