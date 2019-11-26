@@ -9,6 +9,8 @@ Bibliothek für MOSFET Ansteuerung über PWM
 - Arduino Mega 2560 R3 (Nachbau von Elegoo für 14,99€ auf [Amazon](https://www.amazon.de/gp/product/B01MA5BLQI/ref=ppx_yo_dt_b_asin_title_o00_s00))
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
+- Betrieb auf einem Arduino UNO möglich. Bitte vorher PWM Frequenz Anpassung aus dem Beispielprojekt entfernen oder anpassen (siehe Abschnitt "Flackern beheben").
+
 ## Einstellungen
 
 **setInvert**(<_boolean_> invert) - default: false
