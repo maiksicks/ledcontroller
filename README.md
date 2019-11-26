@@ -25,8 +25,11 @@ Bibliothek für MOSFET Ansteuerung über PWM
 
 ## Farbe setzen
 
+**setColor**(<_int_> red, <_int_> green, <_int_> blue);
+- red, green, blue: Werte zwischen 0 und 255
+
 **setColor**(<_int_> red, <_int_> green, <_int_> blue, <_int_> fade_duration);
-- red, green, blue: 0 - 255
+- red, green, blue: Werte zwischen 0 und 255
 
 ## (Nicht) blockierender Modus
 
