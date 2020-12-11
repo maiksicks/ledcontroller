@@ -2,6 +2,9 @@
 
 Bibliothek für MOSFET Ansteuerung über PWM
 
+**INFORMATION: NEUE, FORTSCHRITTLICHERE VERSION**: https://github.com/maiksicks/arduino-pwmcontroller
+
+
 ## Allgemein
 
 **Board und Software**
